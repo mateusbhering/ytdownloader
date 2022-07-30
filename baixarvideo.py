@@ -1,5 +1,4 @@
 from pytube import YouTube
-from sys import argv
 
 link = input("Digite a URL do vídeo: ")
 path = input("Onde deseja salvar o vídeo: ")
